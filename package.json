@@ -1,0 +1,26 @@
+{
+  "name": "guiado-nodejs",
+  "version": "1.0.0",
+  "description": "Este proyecto es un ejemplo de node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miriampc/guiado-nodejs.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "@miriampc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miriampc/guiado-nodejs/issues"
+  },
+  "homepage": "https://github.com/miriampc/guiado-nodejs#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.99.0"
+  }
+}
